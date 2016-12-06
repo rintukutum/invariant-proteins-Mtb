@@ -1,0 +1,6 @@
+site_name: Workflow for searching invariant proteins
+pages:
+  - Home: index.md
+  - About: about.md
+  - Contributers: contri.md
+theme: readthedocs
