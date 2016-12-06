@@ -22,7 +22,7 @@
         }, 
         {
             "location": "/about/", 
-            "text": "Overview\n\n\nThis is a website contains details about \ndataset\n and \nmethodology\n adopted for searching invarinat\nproteins across 1654 \nMycobacterium tuberculosis\n clinical strains.\n\n\nAuthors\n\n\n\n\nDr. Divneet Kaur [1]\n\n\nRintu Kutum [1, 2]\n\n\nDr. Debasis Dash\n\n\nDr. Samir K. Brahmachari [1,2,3]*\n\n\n\n\nAffiliations\n\n\n\n\nCSIR-Institute of Genomics \n Integrative Biology, New Delhi, India\n\n\nAcademy of Scientific and Innovative Research, New Delhi, India\n\n\nCSIR- Open Source Drug Discovery Unit, New Delhi, India\n\n\n\n\n[*] Corresponding author", 
+            "text": "Overview\n\n\nThis is a website contains details about \ndataset\n and \nmethodology\n adopted for searching invarinat\nproteins across 1654 \nMycobacterium tuberculosis\n clinical strains.\n\n\nAuthors\n\n\n\n\nDr. Divneet Kaur [1]\n\n\nRintu Kutum [1, 2]\n\n\nDr. Debasis Dash [1, 2]\n\n\nDr. Samir K. Brahmachari* [1,2,3]\n\n\n\n\nAffiliations\n\n\n\n\nCSIR-Institute of Genomics \n Integrative Biology, New Delhi, India\n\n\nAcademy of Scientific and Innovative Research, New Delhi, India\n\n\nCSIR- Open Source Drug Discovery Unit, New Delhi, India\n\n\n\n\n[*] Corresponding author", 
             "title": "About"
         }, 
         {
@@ -32,7 +32,7 @@
         }, 
         {
             "location": "/about/#authors", 
-            "text": "Dr. Divneet Kaur [1]  Rintu Kutum [1, 2]  Dr. Debasis Dash  Dr. Samir K. Brahmachari [1,2,3]*", 
+            "text": "Dr. Divneet Kaur [1]  Rintu Kutum [1, 2]  Dr. Debasis Dash [1, 2]  Dr. Samir K. Brahmachari* [1,2,3]", 
             "title": "Authors"
         }, 
         {
