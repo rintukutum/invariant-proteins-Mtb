@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Overview\n\n\nThis is a website contains details about \ndataset\n and \nmethodology\n adopted for searching invariant\nproteins across 1623 \nMycobacterium tuberculosis\n clinical isolates.\n\n\n\n\nDatasets\n\n\n1623 M. tb clinical isolates\n\n\nRaw variant calling files \n.vcf\n of 1623 \nMycobacterium tuberculosis\n\nclinical isolates, was downloaded from \nGMTV database\n. The downloaded variation file used\nin our analysis is \navailable here\n \n[225 MB]\n. The details on 1623 \nMycobacterium tuberculosis\n clinical isolates can be downloaded from \nhere\n \n[464 KB]\n.\n\n\n890 Metabolic genes\n\n\nFrom our previously published article [\n1\n] , 890 metabolic genes (RvIDs) were queried against downloaded variation file. The refernce genome of \nMycobacterium tuberculosis\n H37Rv (NC000962.3) was downloaded from \nNCBI\n.\n\n\n\n\nMethodology of invariant genes\n\n\nThe detail methodology will be available soon with our article under communication.\n\n\nAdditional \n.vif\n files\n\n\nVariation information file \n.vif\n was generated using the reference\ngenome and GMTV variation file for 890 metabolic genes. The zipped file is avaliable \nhere.", 
+            "text": "Overview\n\n\nThis is a website contains details about \ndataset\n and \nmethodology\n adopted for searching invariant\nproteins across 1623 \nMycobacterium tuberculosis\n clinical isolates.\n\n\n\n\nDatasets\n\n\n1623 M. tb clinical isolates\n\n\nRaw variant calling files \n.vcf\n of 1623 \nMycobacterium tuberculosis\n\nclinical isolates, was downloaded from \nGMTV database\n. The downloaded variation file used\nin our analysis is \navailable here\n \n[225 MB]\n. The details on 1623 \nMycobacterium tuberculosis\n clinical isolates can be downloaded from \nhere\n \n[464 KB]\n.\n\n\n890 Metabolic genes\n\n\nFrom our previously published article [\n1\n] , 890 metabolic genes (RvIDs) were queried against downloaded variation file. The refernce genome of \nMycobacterium tuberculosis\n H37Rv (NC000962.3) was downloaded from \nNCBI\n.\n\n\n\n\nMethodology of invariant genes\n\n\nThe detail methodology will be available soon with our article under communication.\n\n\nAdditional \n.vif\n files\n\n\nVariation information file \n.vif\n was generated using the reference\ngenome and GMTV variation file for 890 metabolic genes. The zipped file\nis avaliable \nhere\n \n[2 MB]\n.", 
             "title": "Home"
         }, 
         {
@@ -32,7 +32,7 @@
         }, 
         {
             "location": "/#additional-vif-files", 
-            "text": "Variation information file  .vif  was generated using the reference\ngenome and GMTV variation file for 890 metabolic genes. The zipped file is avaliable  here.", 
+            "text": "Variation information file  .vif  was generated using the reference\ngenome and GMTV variation file for 890 metabolic genes. The zipped file\nis avaliable  here   [2 MB] .", 
             "title": "Additional .vif files"
         }, 
         {
