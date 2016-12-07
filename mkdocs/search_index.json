@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Overview\n\n\nThis is a website contains details about \ndataset\n and \nmethodology\n adopted for searching invariant\nproteins across 1623 \nMycobacterium tuberculosis\n clinical strains.\n\n\n\n\nAbout dataset\n\n\nvcf file of 1623 M. tb clinical isolates\n\n\nRaw variant calling file \n.vcf\n of 1623 \nMycobacterium tuberculosis\n clinical isolates, was downloaded from \nGMTV database\n. The downloaded \n.vcf\n file used in our analysis is \navailable here\n.\n\n\n890 metabolic genes\n\n\nFrom our previously published article [\n1\n] , 890 metabolic genes and 961 metabolites that were identified as putative drug targets.\n\n\nSearching methodology", 
+            "text": "Overview\n\n\nThis is a website contains details about \ndataset\n and \nmethodology\n adopted for searching invariant\nproteins across 1623 \nMycobacterium tuberculosis\n clinical isolates.\n\n\n\n\nAbout dataset\n\n\nvcf file of 1623 M. tb clinical isolates\n\n\nRaw variant calling file \n.vcf\n of 1623 \nMycobacterium tuberculosis\n clinical isolates, was downloaded from \nGMTV database\n. The downloaded \n.vcf\n file used in our analysis is \navailable here\n.\n\n\n890 metabolic genes\n\n\nFrom our previously published article [\n1\n] , 890 metabolic genes and 961 metabolites that were identified as putative drug targets.\n\n\nSearching methodology", 
             "title": "Home"
         }, 
         {
             "location": "/#overview", 
-            "text": "This is a website contains details about  dataset  and  methodology  adopted for searching invariant\nproteins across 1623  Mycobacterium tuberculosis  clinical strains.", 
+            "text": "This is a website contains details about  dataset  and  methodology  adopted for searching invariant\nproteins across 1623  Mycobacterium tuberculosis  clinical isolates.", 
             "title": "Overview"
         }, 
         {
@@ -32,12 +32,12 @@
         }, 
         {
             "location": "/about/", 
-            "text": "Overview\n\n\nThis is a website contains details about \ndataset\n and \nmethodology\n adopted for searching invariant\nproteins across 1654 \nMycobacterium tuberculosis\n clinical strains.\n\n\nAuthors\n\n\n\n\nDr. Divneet Kaur [1]\n\n\nRintu Kutum [1, 2]\n\n\nDr. Debasis Dash [1, 2]\n\n\nDr. Samir K. Brahmachari* [1,2,3]\n\n\n\n\nAffiliations\n\n\n\n\nCSIR-Institute of Genomics \n Integrative Biology, New Delhi, India\n\n\nAcademy of Scientific and Innovative Research, New Delhi, India\n\n\nCSIR- Open Source Drug Discovery Unit, New Delhi, India\n\n\n\n\n[*] Corresponding author", 
+            "text": "Overview\n\n\nThis is a website contains details about \ndataset\n and \nmethodology\n adopted for searching invariant\nproteins across 1623 \nMycobacterium tuberculosis\n clinical isolates.\n\n\nAuthors\n\n\n\n\nDr. Divneet Kaur [1]\n\n\nRintu Kutum [1, 2]\n\n\nDr. Debasis Dash [1, 2]\n\n\nDr. Samir K. Brahmachari* [1,2,3]\n\n\n\n\nAffiliations\n\n\n\n\nCSIR-Institute of Genomics \n Integrative Biology, New Delhi, India\n\n\nAcademy of Scientific and Innovative Research, New Delhi, India\n\n\nCSIR- Open Source Drug Discovery Unit, New Delhi, India\n\n\n\n\n[*] Corresponding author", 
             "title": "About"
         }, 
         {
             "location": "/about/#overview", 
-            "text": "This is a website contains details about  dataset  and  methodology  adopted for searching invariant\nproteins across 1654  Mycobacterium tuberculosis  clinical strains.", 
+            "text": "This is a website contains details about  dataset  and  methodology  adopted for searching invariant\nproteins across 1623  Mycobacterium tuberculosis  clinical isolates.", 
             "title": "Overview"
         }, 
         {
