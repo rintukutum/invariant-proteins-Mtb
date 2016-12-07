@@ -2,18 +2,28 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Overview\n\n\nThis is a website contains details about \ndataset\n and \nmethodology\n adopted for searching invariant\nproteins across 1654 \nMycobacterium tuberculosis\n clinical strains.\n\n\n\n\nAbout dataset\n\n\nSearching methodology", 
+            "text": "Overview\n\n\nThis is a website contains details about \ndataset\n and \nmethodology\n adopted for searching invariant\nproteins across 1623 \nMycobacterium tuberculosis\n clinical strains.\n\n\n\n\nAbout dataset\n\n\nvcf file of 1623 M. tb clinical isolates\n\n\nRaw variant calling file \n.vcf\n of 1623 \nMycobacterium tuberculosis\n clinical isolates, was downloaded from \nGMTV database\n. The downloaded \n.vcf\n file used in our analysis is \navailable here\n.\n\n\n890 metabolic genes\n\n\nFrom our previously published article [\n1\n] , 890 metabolic genes and 961 metabolites that were identified as putative drug targets.\n\n\nSearching methodology", 
             "title": "Home"
         }, 
         {
             "location": "/#overview", 
-            "text": "This is a website contains details about  dataset  and  methodology  adopted for searching invariant\nproteins across 1654  Mycobacterium tuberculosis  clinical strains.", 
+            "text": "This is a website contains details about  dataset  and  methodology  adopted for searching invariant\nproteins across 1623  Mycobacterium tuberculosis  clinical strains.", 
             "title": "Overview"
         }, 
         {
             "location": "/#about-dataset", 
             "text": "", 
             "title": "About dataset"
+        }, 
+        {
+            "location": "/#vcf-file-of-1623-m-tb-clinical-isolates", 
+            "text": "Raw variant calling file  .vcf  of 1623  Mycobacterium tuberculosis  clinical isolates, was downloaded from  GMTV database . The downloaded  .vcf  file used in our analysis is  available here .", 
+            "title": "vcf file of 1623 M. tb clinical isolates"
+        }, 
+        {
+            "location": "/#890-metabolic-genes", 
+            "text": "From our previously published article [ 1 ] , 890 metabolic genes and 961 metabolites that were identified as putative drug targets.", 
+            "title": "890 metabolic genes"
         }, 
         {
             "location": "/#searching-methodology", 
