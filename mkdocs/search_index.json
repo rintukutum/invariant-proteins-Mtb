@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Overview\n\n\nThis is a website contains details about \ndataset\n and \nmethodology\n adopted for searching invariant\nproteins across 1623 \nMycobacterium tuberculosis\n clinical isolates.\n\n\n\n\nAbout dataset\n\n\nvcf file of 1623 M. tb clinical isolates\n\n\nRaw variant calling file \n.vcf\n of 1623 \nMycobacterium tuberculosis\n clinical isolates, was downloaded from \nGMTV database\n. The downloaded \n.vcf\n file used in our analysis is \navailable here\n.\n\n\n890 metabolic genes\n\n\nFrom our previously published article [\n1\n] , 890 metabolic genes and 961 metabolites that were identified as putative drug targets.\n\n\nSearching methodology", 
+            "text": "Overview\n\n\nThis is a website contains details about \ndataset\n and \nmethodology\n adopted for searching invariant\nproteins across 1623 \nMycobacterium tuberculosis\n clinical isolates.\n\n\n\n\nDatasets\n\n\n1623 M. tb clinical isolates\n\n\nRaw variant calling files \n.vcf\n of 1623 \nMycobacterium tuberculosis\n clinical isolates, was downloaded from \nGMTV database\n. The downloaded variation file used in our analysis is \navailable here\n \n[225 MB]\n. The details on 1623 \nMycobacterium tuberculosis\n clinical isolates can be \nobtained here\n \n[464 KB]\n\n\n890 Metabolic genes\n\n\nFrom our previously published article [\n1\n] , 890 metabolic genes (RvIDs) were queried against downloaded variation file. The refernce genome of \nMycobacterium tuberculosis\n H37Rv (NC000962.3) was downloaded from \nNCBI\n.\n\n\n\n\nMethodology of invariant genes\n\n\nThe detail methodology will be available soon with our article under communication.", 
             "title": "Home"
         }, 
         {
@@ -11,24 +11,24 @@
             "title": "Overview"
         }, 
         {
-            "location": "/#about-dataset", 
+            "location": "/#datasets", 
             "text": "", 
-            "title": "About dataset"
+            "title": "Datasets"
         }, 
         {
-            "location": "/#vcf-file-of-1623-m-tb-clinical-isolates", 
-            "text": "Raw variant calling file  .vcf  of 1623  Mycobacterium tuberculosis  clinical isolates, was downloaded from  GMTV database . The downloaded  .vcf  file used in our analysis is  available here .", 
-            "title": "vcf file of 1623 M. tb clinical isolates"
+            "location": "/#1623-m-tb-clinical-isolates", 
+            "text": "Raw variant calling files  .vcf  of 1623  Mycobacterium tuberculosis  clinical isolates, was downloaded from  GMTV database . The downloaded variation file used in our analysis is  available here   [225 MB] . The details on 1623  Mycobacterium tuberculosis  clinical isolates can be  obtained here   [464 KB]", 
+            "title": "1623 M. tb clinical isolates"
         }, 
         {
             "location": "/#890-metabolic-genes", 
-            "text": "From our previously published article [ 1 ] , 890 metabolic genes and 961 metabolites that were identified as putative drug targets.", 
-            "title": "890 metabolic genes"
+            "text": "From our previously published article [ 1 ] , 890 metabolic genes (RvIDs) were queried against downloaded variation file. The refernce genome of  Mycobacterium tuberculosis  H37Rv (NC000962.3) was downloaded from  NCBI .", 
+            "title": "890 Metabolic genes"
         }, 
         {
-            "location": "/#searching-methodology", 
-            "text": "", 
-            "title": "Searching methodology"
+            "location": "/#methodology-of-invariant-genes", 
+            "text": "The detail methodology will be available soon with our article under communication.", 
+            "title": "Methodology of invariant genes"
         }, 
         {
             "location": "/about/", 
